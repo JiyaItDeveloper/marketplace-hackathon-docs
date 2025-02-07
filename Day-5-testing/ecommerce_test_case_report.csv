@@ -1,0 +1,11 @@
+Test Case ID,Test Case Description,Test Steps,Expected Result,Actual Result,Status,Severity Level,Assigned To,Remarks
+TC001,Validate product listing page,Open product page > Verify products,Products displayed correctly,Products displayed correctly,Passed,Low,-,No issues found
+TC002,Test order placement,Add product to cart > Proceed to checkout > Confirm order,Order placed successfully,Order placed successfully,Passed,High,-,Works fine
+TC003,Check cart functionality,Add product to cart > Verify cart contents,Cart updates with added product,Cart updates as expected,Passed,High,-,Works as expected
+TC004,Ensure responsiveness on mobile,Resize browser window > Check layout,Layout adjusts properly to screen size,Responsive layout working as intended,Passed,Medium,-,Test successful
+TC005,Validate stock level update,Purchase product > Verify stock reduction,Stock updates correctly,Stock updated as expected,Passed,Medium,-,Stock management working fine
+TC006,Analyze website performance,Run performance audit > Review metrics,Performance issues identified and resolved,Performance improved,Passed,Medium,-,Metrics improved
+TC007,Cross-browser consistency check,Test on Chrome and Edge,Consistent rendering and functionality,Consistent across all tested browsers,Passed,Medium,-,No discrepancies found
+TC008,Validate input validation mechanisms,Submit invalid inputs > Check error handling,Error messages displayed,Input validation working correctly,Passed,High,-,Secure input handling
+TC009,Ensure secure payment processing,Attempt payment > Verify security,Payment processed securely,Payment security verified,Passed,High,-,Security measures in place
+TC010,Simulate real-world user actions,"Perform tasks like browsing, adding to cart, checking out",Smooth functionality for all tasks,Real-world usage validated,Passed,High,-,Usability confirmed
